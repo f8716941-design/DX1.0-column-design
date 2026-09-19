@@ -58,7 +58,7 @@ span{
     }
 
      .link-holder{
-        border: 3px solid purple;
+        /* border: 3px solid purple; */
         color: var(--white-color);
         text-transform: uppercase;
         display: flex;
